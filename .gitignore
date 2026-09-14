@@ -1,0 +1,4 @@
+__pycache__/
+.my_env/
+# Ignore all user-uploaded images and sources
+uploads/
